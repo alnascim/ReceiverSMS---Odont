@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReceiverSMS</string>
+    <string name="mensagem">Informando recebimento de SMS</string>
+</resources>
